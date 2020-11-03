@@ -1,4 +1,15 @@
-### Hi there 👋
+# 😁 Hi, welcome to my profile #
+
+I am an IT student and an employee at VIP Rede, that's it, i don't talk much about me.
+
+<p align="center">
+  <a href="https://github.com/mthsmb?tab=followers">
+    <img src="https://img.shields.io/github/followers/mthsmb?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/marquesbott">
+    <img src="https://img.shields.io/twitter/follow/marquesbott?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+</p>
 
 <!--
 **mthsmb/mthsmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
