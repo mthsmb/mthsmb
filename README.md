@@ -1,6 +1,8 @@
-# 😁 Hi, welcome to my profile #
+### 😁 Hi, welcome to my github profile 👨‍💻 ###
 
-I am an IT student and an employee at VIP Rede, that's it, i don't talk much about me.
+I am an IT student and an employee at VIP Rede, that's it, i don't talk much about me, feel free to look around.
+
+[![Matheus Marques's github stats](https://github-readme-stats.vercel.app/api?username=mthsmb&theme=react&show_icons=true)](https://github.com/mthsmb)
 
 <p align="center">
   <a href="https://github.com/mthsmb?tab=followers">
