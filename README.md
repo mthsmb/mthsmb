@@ -1,8 +1,13 @@
-### 😁 Hi, welcome to my github profile 👨‍💻 ###
 
+<h1 align="center">😁 Hi, welcome to my github profile 👨‍💻</h1>
+<p align="center">
 I am an IT student and an employee at VIP Rede, that's it, i don't talk much about me, feel free to look around.
-
-[![Matheus Marques's github stats](https://github-readme-stats.vercel.app/api?username=mthsmb&theme=react&show_icons=true)](https://github.com/mthsmb)
+</p>
+<p align="center">
+  <a href="https://github.com/mthsmb">
+    <img src="https://github-readme-stats.vercel.app/api?username=mthsmb&theme=react&show_icons=true" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/mthsmb?tab=followers">
